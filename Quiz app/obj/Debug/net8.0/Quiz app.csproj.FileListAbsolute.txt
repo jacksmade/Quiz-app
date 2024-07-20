@@ -1,0 +1,37 @@
+C:\Users\WB\Quiz-app\Quiz app\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\WB\Quiz-app\Quiz app\bin\Debug\net8.0\appsettings.json
+C:\Users\WB\Quiz-app\Quiz app\bin\Debug\net8.0\Quiz app.staticwebassets.runtime.json
+C:\Users\WB\Quiz-app\Quiz app\bin\Debug\net8.0\Quiz app.exe
+C:\Users\WB\Quiz-app\Quiz app\bin\Debug\net8.0\Quiz app.deps.json
+C:\Users\WB\Quiz-app\Quiz app\bin\Debug\net8.0\Quiz app.runtimeconfig.json
+C:\Users\WB\Quiz-app\Quiz app\bin\Debug\net8.0\Quiz app.dll
+C:\Users\WB\Quiz-app\Quiz app\bin\Debug\net8.0\Quiz app.pdb
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\Quiz app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\Quiz app.AssemblyInfoInputs.cache
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\Quiz app.AssemblyInfo.cs
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\Quiz app.csproj.CoreCompileInputs.cache
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\Quiz app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\Quiz app.RazorAssemblyInfo.cache
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\Quiz app.RazorAssemblyInfo.cs
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\Quiz app.sourcelink.json
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\staticwebassets\msbuild.Quiz app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\staticwebassets\msbuild.build.Quiz app.props
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Quiz app.props
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Quiz app.props
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\scopedcss\bundle\Quiz app.styles.css
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\scopedcss\projectbundle\Quiz app.bundle.scp.css
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\Quiz app.dll
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\refint\Quiz app.dll
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\Quiz app.pdb
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\Quiz app.genruntimeconfig.cache
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\ref\Quiz app.dll
+C:\Users\WB\Quiz-app\Quiz app\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\WB\Quiz-app\Quiz app\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\WB\Quiz-app\Quiz app\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\WB\Quiz-app\Quiz app\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\Quiz app.csproj.AssemblyReference.cache
+C:\Users\WB\Quiz-app\Quiz app\obj\Debug\net8.0\Quiz app.csproj.Up2Date
